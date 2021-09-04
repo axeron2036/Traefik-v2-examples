@@ -9,10 +9,10 @@
 
 requirements
 
- -have docker running somewhere
- -have a domain example.com
- -use cloudflare to manage DNS of the domain
- -have 80/443 ports open
+ - have docker running somewhere
+ - have a domain example.com
+ - use cloudflare to manage DNS of the domain
+ - have 80/443 ports open
 
 
 chapters
