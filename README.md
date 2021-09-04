@@ -9,12 +9,12 @@
 
 requirements
 
-- have docker running somewhere
-- have a domain `example.com`
-- use cloudflare to manage DNS of the domain
-- have 80/443 ports open
+- где-то крутится докер
+- есть домен `example.com`
+- используется cloudflare для управления DNS домена
+- имеются 80/443 открытые порты
 
-chapters
+Оглавление
 
 1. [traefik routing to docker containers](#1-traefik-routing-to-various-docker-containers)
 2. [traefik routing to a local IP addresses](#2-traefik-routing-to-a-local-IP-addresses)
